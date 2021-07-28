@@ -18,7 +18,7 @@
 }
 
 #calculadora td input:hover {
-  color: #fff;
+  color: #00FF7F;
   background-color: #87CEEB;
 }
 
@@ -27,6 +27,6 @@
 }
 
 #calculadora td input#tela:hover {
-  color: #000;
+  color: #00FF7F;
   background-color: #87CEEB;
 }
