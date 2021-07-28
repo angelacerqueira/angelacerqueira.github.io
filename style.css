@@ -2,8 +2,8 @@
   margin: 0 auto;
   padding: 0;
   box-sizing: content-box;
-  background-color: #00FF7F; 
-  border: 0 double black;
+  background-color: #ADFF2F; 
+  border: 0 double #ADFF2F;
   font-size: 1.5625rem;
 }
 
@@ -30,3 +30,4 @@
   color: #000;
   background-color: #87CEEB;
 }
+
